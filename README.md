@@ -7,7 +7,7 @@
 
 Thanks for viewing my project, this is `my another solo project` in my journey to become a `front-end developer.`
 
-* <a href="https://aesthetic-tiramisu-b5f873.netlify.app/">Live Preview</a>
+* <a href="https://resilient-mooncake-6bc3e1.netlify.app/">Live Preview</a>
 
 * <a href="https://scrimba.com/scrim/cgwRJzc9?pl=pVMagaWUV">View Scrim</a>
 
